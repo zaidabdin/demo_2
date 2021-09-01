@@ -3,3 +3,5 @@ Here I'll explain how to add two numbers in python
 first step: enter the first number
 2nd step : enter the second number
 3rd step: call the print function and type print(1st num + 2nd num)
+
+We've to change the input by the user from string to integer
